@@ -33,8 +33,36 @@
 |  | Get future time | Zukünftige Zeit abrufen | In App |
 |  | Get past time | Vergangene Uhrzeit abrufen | In App |
 |  | Substract from time | Von Uhrzeit abziehen | In App |
-| ![alt text](/sources/button.c0d4736c.png "low button for mobil") | **Flow button for mobile** |  | In App |
+| ![alt text](/sources/button.c0d4736c.png "Flow button for mobil") | **Flow button for mobile** |  | In App |
 |  | Manually trigger a flow | Einen Flow automatisch auslösen | In App, Trigger |
+| ![alt text](/sources/excel_icon.png "Excel Online (Business)") | **Excel Online (Business)** |  |  |
+|  | Delete a row | Zeile löschen |  |
+|  | Get a row | Zeile abrufen |  |
+|  | Get worksheets | Arbeitsblätter abrufen |  |
+|  | List rows present in a table | In Tabelle vorhandene Zeilen auflisten |  |
+|  | Run script | Skript ausführen |  |
+|  | Run script from SharePoint library | Skript aus SharePoint-Bibliothek ausführen |  |
+|  | Update row | Zeile aktualisieren |  |
+|  | For a selected row | Für eine  ausgewählte Zeile | Trigger |
+|  | Add a key column to a table | Schlüsselspalte zu Tabelle hinzufügen |  |
+|  | Add a row into a table | Zeile zu Tabelle hinzufügen |  |
+|  | Create table | Tabelle erstellen |  |
+|  | Create Worksheet | Arbeitsblatt erstellen |  |
+|  | Get tables | Tabellen abrufen |  |
+| ![alt text](/sources/excel_icon.png "Excel Online for Business") | **Excel Online  for Business** |  |  |
+|  | Delete a row | Zeile löschen |  |
+|  | Get a row | Zeile abrufen |  |
+|  | Get worksheets | Arbeitsblätter abrufen |  |
+|  | List rows present in a table | In Tabelle vorhandene Zeilen auflisten |  |
+|  | Run script | Skript ausführen |  |
+|  | Run script from SharePoint library | Skript aus SharePoint-Bibliothek ausführen |  |
+|  | Update row | Zeile aktualisieren |  |
+|  | For a selected row | Für eine  ausgewählte Zeile | Trigger |
+|  | Add a key column to a table | Schlüsselspalte zu Tabelle hinzufügen |  |
+|  | Add a row into a table | Zeile zu Tabelle hinzufügen |  |
+|  | Create table | Tabelle erstellen |  |
+|  | Create Worksheet | Arbeitsblatt erstellen |  |
+|  | Get tables | Tabellen abrufen |  |
 | ![alt text](/sources/http.a0aaded8.png "HTTP") | **HTTP** | **HTTP** | In App |
 |  | HTTP | HTTP | In App |
 |  | HTTP | HTTP | In App, Trigger |
