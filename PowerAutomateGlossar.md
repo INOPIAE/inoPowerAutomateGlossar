@@ -6,6 +6,11 @@
 | --- | --- | --- | --- |
 | ![alt text](/sources/aiBuilderNew.51dbdb6b.png "AI Builder") | **AI Builder** | | In App |
 |  | Todo |  |  |
+| ![alt text](/sources/approval_icon.png "Approvals") | **Approvals** | **Genehmigungen** |  |
+|  | Create an approval | Genehmigung erstellen |  |
+|  | Start and wait for an approval | Starten und auf Genehmigung warten |  |
+|  | Start and wait for an approval of text | Sarten und auf Genehmigung des Textes warten |  |
+|  | Wait for an approval | Auf Genehmigung warten |  |
 | ![alt text](/sources/condition.4c34404e.png "Controls") | **Control** | | In App |
 |  | Condition | Bedingung | In App |
 |  | Apply to each | Auf alle anwenden | In App |
