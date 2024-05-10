@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | ![alt text](/sources/aiBuilderNew.51dbdb6b.png "AI Builder") | **AI Builder** | | In App |
 |  | Todo |  |  |
-| ![alt text](/sources/approval_icon.png "Approvals") | **Approvals** | **Genehmigungen** |  |
+| ![alt text](/sources/approval_icon.png "Approvals") | **Approvals** | **Genehmigungen** | Standard |
 |  | Create an approval | Genehmigung erstellen |  |
 |  | Start and wait for an approval | Starten und auf Genehmigung warten |  |
 |  | Start and wait for an approval of text | Sarten und auf Genehmigung des Textes warten |  |
@@ -35,7 +35,7 @@
 |  | Substract from time | Von Uhrzeit abziehen | In App |
 | ![alt text](/sources/button.c0d4736c.png "Flow button for mobil") | **Flow button for mobile** |  | In App |
 |  | Manually trigger a flow | Einen Flow automatisch auslösen | In App, Trigger |
-| ![alt text](/sources/excel_icon.png "Excel Online (Business)") | **Excel Online (Business)** |  |  |
+| ![alt text](/sources/excel_icon.png "Excel Online (Business)") | **Excel Online (Business)** |  | Standard |
 |  | Delete a row | Zeile löschen |  |
 |  | Get a row | Zeile abrufen |  |
 |  | Get worksheets | Arbeitsblätter abrufen |  |
@@ -49,7 +49,7 @@
 |  | Create table | Tabelle erstellen |  |
 |  | Create Worksheet | Arbeitsblatt erstellen |  |
 |  | Get tables | Tabellen abrufen |  |
-| ![alt text](/sources/excel_icon.png "Excel Online for Business") | **Excel Online  for Business** |  |  |
+| ![alt text](/sources/excel_icon.png "Excel Online for Business") | **Excel Online  for Business** |  | Standard |
 |  | Delete a row | Zeile löschen |  |
 |  | Get a row | Zeile abrufen |  |
 |  | Get worksheets | Arbeitsblätter abrufen |  |
@@ -74,7 +74,7 @@
 |  | When a Teams webhook request is received | Bei Empfang einer Teams-Webhookanforderung | In App |
 | ![alt text](/sources/numberfunctions.31ce8522.png "Number Function") | **Number Function** |  | In App |
 |  | Format number | Zahl formatieren | In App |
-| ![alt text](/sources/outlook_icon.png "Office 365 Outlook") | **Office 365 Outlook** |  | In App |
+| ![alt text](/sources/outlook_icon.png "Office 365 Outlook") | **Office 365 Outlook** |  | Standard |
 |  | Create contact (V2) | Kontakt erstellen (V2) |  |
 |  | Create event (V4) | Termin erstellen (V4) |  |
 |  | Send an HTTP request | HTTP-Anforderung senden |  |
@@ -118,13 +118,6 @@
 |  | When an event is added, updated or deleted (V3) | Bei Hinzufügen, Änden oder Löschen eines Ereignisses (V3) | Trigger |
 |  | When an event is modified (V3) | Wenn ein Termin geändert wird (V3) | Trigger |
 |  | When an upcoming event is starting soon (V3) | Wenn ein anstehender Termin in Kürze startet (V3) | Trigger |
-
-115-78 = 37
-
-Kalenderansicht der Termine abrufen (V3)
-
-
-
 | ![alt text](/sources/PowerApps2.05e0cdd0.png "Power Apps") | **Power Apps** |  | In App |
 |  | Power Apps (V2) | Power Apps (V2) | In App, Trigger |
 |  | Respond to a Power App or flow | Auf eine Power App oder einen Flow reagieren | In App |
