@@ -27,6 +27,7 @@ Diese Bereiche sind schon erfasst:
 | ![alt text](/sources/PowerApps2.05e0cdd0.png "Power Apps") | **Power Apps** |  | In App |
 | ![alt text](/sources/PowerVirtualAgents2.c357140b.png "Power Virtual Agents") | **Power Virtual Agents** |  | In App |
 | ![alt text](/sources/request.1cff129c.png "Request") | **Request** |  | In App |
+| ![alt text](/sources/sharepointonline2.3946a5b5.png "SharePoint") | **SharePoint** |  | Standard |
 | ![alt text](/sources/datetime.6adce4c8.png "Schedule") | **Schedule** |  | In App |
 | ![alt text](/sources/Skills.4cd3778f.png "Skills") | **Skills** |  | In App |
 | ![alt text](/sources/textfunctions.46a2303c.png "Text Function") | **Text Function** |  | In App |

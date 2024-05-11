@@ -127,6 +127,70 @@
 | ![alt text](/sources/request.1cff129c.png "Request") | **Request** |  | In App |
 |  | Response | Antwort | In App |
 |  | When an HTTP request is received | Beim Empfang einer HTTP-Anforderung | In App, Trigger |
+| ![alt text](/sources/sharepointonline2.3946a5b5.png "SharePoint") | **SharePoint** |  | Standard |
+|  | When an item is created  | Wenn ein Element erstellt wird | Trigger |
+|  | When an item is created or modified | Wenn ein Element erstellt oder geändert wird | Trigger |
+|  | When a file is created in a folder (deprecated) | Wenn eine Datei in eiem Ordner erstellt wird (veraltet) | Trigger |
+|  | Add attachment  | Anlage hinzufügen |  |
+|  | Approve hub site join request | Anforderung zum Verknüpfung der Hubwebsite genehmigen |  |
+|  | Cancel hub site join request | Anforderung zum Verknüpfung der Hubwebsite abbrechen  |  |
+|  | Check in file | Datei einchecken |  |
+|  | Checkout file | Datei auschecken |  |
+|  | Copy file | Datei kopieren |  |
+|  | Copy folder | Ordner kopieren |  |
+|  | Create file | Datei erstellen |  |
+|  | Create item | Element erstellen |  |
+|  | Create new document set | Neuen Dokumentensatz erstellen |  |
+|  | Create new folder | Neuen Ordner erstellen |  |
+|  | Create sharing link for a file or folder | Freigabe link für eine Datei oder Ordner erstellen |  |
+|  | Discard check out | Auschecken verwerfen |  |
+|  | For a selected file | Für eine ausgewählte Datei | Trigger |
+|  | For a selected item | Für ein ausgewähltes Element | Trigger |
+|  | Get attachements | Anlagen abrufen |  |
+|  | Get changes for an item or a file (properties only) | Änderungen für ein Element oder Datei abrufen (nur Eigenschaften) |  |
+|  | Get file properties | Dateieigenschaften abrufen |  |
+|  | Get files (properties only) | Dateien abrufen (nur Eigenschaften) |  |
+|  | Get items | Elemente abfrufen |  |
+|  | Grant access to an item or a folder | Zugriff auf ein Element oder einen Ordner gewähren |  |
+|  | Join hub site | Hubwebsite verknüpfen |  |
+|  | List folder | Ordner auflisten |  |
+|  | Move file | Datei verschieben |  |
+|  | Move folder | Ornder verschieben |  |
+|  | Resolve person | Person auflösen |  |
+|  | Send an HTTP request to SharePoint | HTTP-Anforderung an Sharepoint senden |  |
+|  | Set content approval status | Inhaltsgenehmigungsstatus festlegen |  |
+|  | Set hub site join status to pending | Verknüpfungsstatus der Hubwebsite auf "ausstehend" festlegen |  |
+|  | Stop sharing an item or a file | IFreigabe eines Elementes oder einer Datei beenden |  |
+|  | When a file is classified by a Microsoft Syntex model | Wenn eine Datei durch ein Microsoft Syntex-Modell klassifiziert wird | Trigger |
+|  | When a file is created (properties  only) |  Wenn eine Datei erstellt wird (nur Eigenschaften) | Trigger |
+|  | When a file is created or modified (properties  only) | Wenn eine Datei erstellt oder geändert wird (nur Eigenschaften)  | Trigger |
+|  | When a file is deleted |  Wenn eine Datei gelöscht wird | Trigger |
+|  | When a site has requested to join a hub site | Wenn eine Webseite eine Verknüfung mit einer Hubwebsite angefordert hat | Trigger |
+|  | When an item is deleted | Wenn ein Element gelöscht wird | Trigger |
+|  | When an item or file is modified | Wenn ein Element oder Datei geändert wird | Trigger |
+|  | Copy file (deprecated) | Datei kopieren (veraltet) |  |
+|  | Delete attachement | Anlage löschen |  |
+|  | Delete file | Datei löschen | 
+|  | Delete item | Element löschen | 
+|  | Extract folder | Ordner extrahieren |  |
+|  | Generate document using Microsoft Syntex (preview) | Dokument mithilfe von Microsoft Syntex generieren (Vorschauversion) |  |
+|  | Get all lists and libraries | Alle Listen und Bibliotheken abrufen |  |
+|  | Get attachment content | Anlageninhalt abrufen |  |
+|  | Get file content | Dateiinhalt abrufen |  |
+|  | Get file content using path | Dateiinhalt über Pfad abrufen |  |
+|  | Get file metadata | Dateimetadaten abrufen |  |
+|  | Get file metadata using path | Dateimetadaten über Pfad abrufen |  |
+|  | Get folder metadata | Ordnermetadaten abrufen |  |
+|  | Get folder metadata using path |Ordnermetadaten über Pfad abrufen |  |
+|  | Get item | Element abrufen |  |
+|  | Get list views | Listenansichten abrufen |  |
+|  | Get lists | Listen abrufen |  |
+|  | List root folder | Stammordner auflisten |  |
+|  | Update file | Datei aktualisieren |  |
+|  | Update file properties | Dateieigenschaften aktualisieren |  |
+|  | Update file properties using AI Builder model result | Dateieigenscahften mithilfe von AI Builder-Modellergebnissen aktualisieren |  |
+|  | Update item | Element aktualisieren |  |
+|  | When a file is created or modified in a folder (deprecated) | Wenn eine Datei erstellt oder geändert wird (veraltet) | Trigger |
 | ![alt text](/sources/datetime.6adce4c8.png "Schedule") | **Schedule** |  | In App |
 |  | Delay | Verzögerung | In App |
 |  | Delay until | Verzögern bis | In App |
@@ -145,5 +209,7 @@
 |  | Initialize variable | Variable initialisieren | In App |
 |  | Set varibale | Variable festlegen | In App |
 
+
+<img src="/sources/variables.e1611a86.png" width="30" height="30">
 |  |  |  | In App |
 |  |  |  |  |
