@@ -4,21 +4,21 @@
 
 | Icon | Englisch | Deutsch | Kommentar |
 | --- | --- | --- | --- |
-| ![alt text](/sources/aiBuilderNew.51dbdb6b.png "AI Builder") | **AI Builder** | | In App |
+| <img src="/sources/aiBuilderNew.51dbdb6b.png" alt="AI Builder" width="30" height="30"> | **AI Builder** | | In App |
 |  | Todo |  |  |
-| ![alt text](/sources/approval_icon.png "Approvals") | **Approvals** | **Genehmigungen** | Standard |
+| <img src="/sources/approval_icon.png" alt="Approvals" width="30" height="30"> | **Approvals** | **Genehmigungen** | Standard |
 |  | Create an approval | Genehmigung erstellen |  |
 |  | Start and wait for an approval | Starten und auf Genehmigung warten |  |
 |  | Start and wait for an approval of text | Sarten und auf Genehmigung des Textes warten |  |
 |  | Wait for an approval | Auf Genehmigung warten |  |
-| ![alt text](/sources/condition.4c34404e.png "Controls") | **Control** | | In App |
+| <img src="/sources/condition.4c34404e.png" alt="Control" width="30" height="30"> | **Control** | | In App |
 |  | Condition | Bedingung | In App |
 |  | Apply to each | Auf alle anwenden | In App |
 |  | Do until | Wiederholen bis | In App |
 |  | Scope | Bereich | In App |
 |  | Switch | Wechseln | In App |
 |  | Terminate | Beenden | In App |
-| ![alt text](/sources/dataoperationedit.2c8a4d5e.png "Data Operation") | **Data Operation**     |  | In App |
+| <img src="/sources/dataoperationedit.2c8a4d5e.png" alt="Data Operations" width="30" height="30"> | **Data Operation**     |  | In App |
 |  | Compose | Verfassen | In App |
 |  | Create CSV table | CSV-Tabelle erstellen | In App |
 |  | Create HTML table | HTML-Tabelle erstellen | In App |
@@ -26,16 +26,16 @@
 |  | Join | Verknüpfung | In App |
 |  | Parse JSON | JSON analysieren | In App |
 |  | Select | Auswählen | In App |
-| ![alt text](/sources/datetime.6adce4c8.png "Date Tim") | **Date Time** |  | In App |
+| <img src="/sources/datetime.6adce4c8.png" alt="Date Time" width="30" height="30"> | **Date Time** |  | In App |
 |  | Add to Time | Zu Zeit hinzufügen | In App |
 |  | Convert time zone | Zeitzone konvertieren | In App |
 |  | Current Time | Aktuelle Uhrzeit | In App |
 |  | Get future time | Zukünftige Zeit abrufen | In App |
 |  | Get past time | Vergangene Uhrzeit abrufen | In App |
 |  | Substract from time | Von Uhrzeit abziehen | In App |
-| ![alt text](/sources/button.c0d4736c.png "Flow button for mobil") | **Flow button for mobile** |  | In App |
+| <img src="/sources/button.c0d4736c.png" alt="Flow button for mobil" width="30" height="30"> | **Flow button for mobile** |  | In App |
 |  | Manually trigger a flow | Einen Flow automatisch auslösen | In App, Trigger |
-| ![alt text](/sources/excel_icon.png "Excel Online (Business)") | **Excel Online (Business)** |  | Standard |
+| <img src="/sources/excel_icon.png"  alt ="Excel Online (Business)" width="30" height="30"> | **Excel Online (Business)** |  | Standard |
 |  | Delete a row | Zeile löschen |  |
 |  | Get a row | Zeile abrufen |  |
 |  | Get worksheets | Arbeitsblätter abrufen |  |
@@ -49,7 +49,7 @@
 |  | Create table | Tabelle erstellen |  |
 |  | Create Worksheet | Arbeitsblatt erstellen |  |
 |  | Get tables | Tabellen abrufen |  |
-| ![alt text](/sources/excel_icon.png "Excel Online for Business") | **Excel Online  for Business** |  | Standard |
+| <img src="/sources/excel_icon.png"  alt ="Excel Online for Business" width="30" height="30"> | **Excel Online for Business** |  | Standard |
 |  | Delete a row | Zeile löschen |  |
 |  | Get a row | Zeile abrufen |  |
 |  | Get worksheets | Arbeitsblätter abrufen |  |
@@ -63,18 +63,18 @@
 |  | Create table | Tabelle erstellen |  |
 |  | Create Worksheet | Arbeitsblatt erstellen |  |
 |  | Get tables | Tabellen abrufen |  |
-| ![alt text](/sources/http.a0aaded8.png "HTTP") | **HTTP** | **HTTP** | In App |
+| <img src="/sources/http.a0aaded8.png"  alt ="HTTP" width="30" height="30"> | **HTTP** | **HTTP** | In App |
 |  | HTTP | HTTP | In App |
 |  | HTTP | HTTP | In App, Trigger |
 |  | HTTP + Swagger | HTTP + Swagger | In App |
 |  | HTTP + Swagger | HTTP + Swagger | In App, Trigger |
 |  | HTTP-Webhook | HTTP-Webhook | In App |
 |  | HTTP-Webhook | HTTP- Webhook | In App, Trigger |
-| ![alt text](/sources/teams.dd2b07cb.png "Microsoft Teams Webhook") | **Microsoft Teams Webhook** |  | In App|
+| <img src="/sources/teams.dd2b07cb.png"  alt ="Microsoft Teams Webhook" width="30" height="30"> | **Microsoft Teams Webhook** |  | In App|
 |  | When a Teams webhook request is received | Bei Empfang einer Teams-Webhookanforderung | In App |
-| ![alt text](/sources/numberfunctions.31ce8522.png "Number Function") | **Number Function** |  | In App |
+| <img src="/sources/numberfunctions.31ce8522.png"  alt ="Number Function" width="30" height="30"> | **Number Function** |  | In App |
 |  | Format number | Zahl formatieren | In App |
-| ![alt text](/sources/outlook_icon.png "Office 365 Outlook") | **Office 365 Outlook** |  | Standard |
+| <img src="/sources/outlook_icon.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Outlook** |  | Standard |
 |  | Create contact (V2) | Kontakt erstellen (V2) |  |
 |  | Create event (V4) | Termin erstellen (V4) |  |
 |  | Send an HTTP request | HTTP-Anforderung senden |  |
@@ -118,16 +118,16 @@
 |  | When an event is added, updated or deleted (V3) | Bei Hinzufügen, Änden oder Löschen eines Ereignisses (V3) | Trigger |
 |  | When an event is modified (V3) | Wenn ein Termin geändert wird (V3) | Trigger |
 |  | When an upcoming event is starting soon (V3) | Wenn ein anstehender Termin in Kürze startet (V3) | Trigger |
-| ![alt text](/sources/PowerApps2.05e0cdd0.png "Power Apps") | **Power Apps** |  | In App |
+| <img src="/sources/PowerApps2.05e0cdd0.png"  alt ="Power Apps" width="30" height="30">| **Power Apps** |  | In App |
 |  | Power Apps (V2) | Power Apps (V2) | In App, Trigger |
 |  | Respond to a Power App or flow | Auf eine Power App oder einen Flow reagieren | In App |
-| ![alt text](/sources/PowerVirtualAgents2.c357140b.png "Power Virtual Agents") | **Power Virtual Agents** |  | In App |
+| <img src="/sources/PowerVirtualAgents2.c357140b.png"  alt ="Power Virtual Agents" width="30" height="30"> | **Power Virtual Agents** |  | In App |
 |  | When Power Virtual Agents call a flow | Beim Aufrufen eines Flows durch Power Virtual Agents | In App |
 |  | Return vaule(s) to Power Virtual Agents | Wert(e) an Power Virtual Agents zurückgeben | In App |
-| ![alt text](/sources/request.1cff129c.png "Request") | **Request** |  | In App |
+| <img src="/sources/request.1cff129c.png"  alt ="Request" width="30" height="30"> | **Request** |  | In App |
 |  | Response | Antwort | In App |
 |  | When an HTTP request is received | Beim Empfang einer HTTP-Anforderung | In App, Trigger |
-| ![alt text](/sources/sharepointonline2.3946a5b5.png "SharePoint") | **SharePoint** |  | Standard |
+| <img src="/sources/sharepointonline2.3946a5b5.png"  alt ="SharePoint" width="30" height="30"> | **SharePoint** |  | Standard |
 |  | When an item is created  | Wenn ein Element erstellt wird | Trigger |
 |  | When an item is created or modified | Wenn ein Element erstellt oder geändert wird | Trigger |
 |  | When a file is created in a folder (deprecated) | Wenn eine Datei in eiem Ordner erstellt wird (veraltet) | Trigger |
@@ -191,17 +191,17 @@
 |  | Update file properties using AI Builder model result | Dateieigenscahften mithilfe von AI Builder-Modellergebnissen aktualisieren |  |
 |  | Update item | Element aktualisieren |  |
 |  | When a file is created or modified in a folder (deprecated) | Wenn eine Datei erstellt oder geändert wird (veraltet) | Trigger |
-| ![alt text](/sources/datetime.6adce4c8.png "Schedule") | **Schedule** |  | In App |
+| <img src="/sources/datetime.6adce4c8.png"  alt ="Schedule" width="30" height="30"> | **Schedule** |  | In App |
 |  | Delay | Verzögerung | In App |
 |  | Delay until | Verzögern bis | In App |
 |  | Recurrence | Wiederholung | In App, Trigger |
-| ![alt text](/sources/Skills.4cd3778f.png "Skills") | **Skills** |  | In App |
+| <img src="/sources/Skills.4cd3778f.png"  alt ="Skills" width="30" height="30"> | **Skills** |  | In App |
 |  | Run a flow from Copilot | Flow über Copilot ausführen | In App, Trigger |
 |  | Respond to Copilot | Auf Copilot antworten | In App |
-| ![alt text](/sources/textfunctions.46a2303c.png "Text Function") | **Text Function** |  | In App |
+| <img src="/sources/textfunctions.46a2303c.png"  alt ="Text Function" width="30" height="30"> | **Text Function** |  | In App |
 |  | Find text position | Textposition suchen | In App |
 |  | Substring | Untergeordnete Zeichenfolge | In App |
-| ![alt text](/sources/variables.e1611a86.png "Variable")  | **Variable** |  | In App |
+| <img src="/sources/variables.e1611a86.png"  alt ="Variable" width="30" height="30"> | **Variable** |  | In App |
 |  | Append to array variable | An Arrayvariable anfügen | In App |
 |  | Append to string variable | An Zeichenfolgenvariable anfügen | In App |
 |  | Decrement variable | Variablenwert verringern | In App |
@@ -210,6 +210,5 @@
 |  | Set varibale | Variable festlegen | In App |
 
 
-<img src="/sources/variables.e1611a86.png" width="30" height="30">
 |  |  |  | In App |
 |  |  |  |  |
