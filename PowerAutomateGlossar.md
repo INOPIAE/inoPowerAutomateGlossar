@@ -111,7 +111,7 @@
 |  | Set up automatic replies (V2) | Automatische Antworten einrichten (V2) |  |
 |  | Update contact (V2) | Kontakt aktualisieren (V2) |  |
 |  | Update event (V4) | Termin aktualisieren (V4) |  |
-|  | Update ma contact's photo | Kontaktfoto aktualisieren |  |
+|  | Update a contact's photo | Kontaktfoto aktualisieren |  |
 |  | When a new email arrives in a shared mailbox (V2) | Wenn eine neue E-Mail in einem freigegeben Postfach eingeht (V2) | Trigger |
 |  | When a new email mentioning me arrives (V3) | Bei Eingang einer neuen E-Mail mit Erwähnung meines Namens (V3) | Trigger |
 |  | When a new event is created (V3) | Wenn ein Termin erstellt wird (V3)| Trigger |
