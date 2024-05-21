@@ -24,6 +24,7 @@ Diese Bereiche sind schon erfasst:
 | <img src="/sources/teams.dd2b07cb.png"  alt ="Microsoft Teams Webhook" width="30" height="30"> | **Microsoft Teams Webhook** |  | In App|
 | <img src="/sources/numberfunctions.31ce8522.png"  alt ="Number Function" width="30" height="30"> | **Number Function** |  | In App | 
 | <img src="/sources/outlook_icon.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Outlook** |  | Standard |
+| <img src="/sources/office365users.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Users** |  | Standard |
 | <img src="/sources/PowerApps2.05e0cdd0.png"  alt ="Power Apps" width="30" height="30"> | **Power Apps** |  | In App |
 | <img src="/sources/PowerVirtualAgents2.c357140b.png"  alt ="Power Virtual Agents" width="30" height="30"> | **Power Virtual Agents** |  | In App |
 | <img src="/sources/request.1cff129c.png"  alt ="Request" width="30" height="30"> | **Request** |  | In App |

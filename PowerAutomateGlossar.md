@@ -118,6 +118,20 @@
 |  | When an event is added, updated or deleted (V3) | Bei Hinzufügen, Änden oder Löschen eines Ereignisses (V3) | Trigger |
 |  | When an event is modified (V3) | Wenn ein Termin geändert wird (V3) | Trigger |
 |  | When an upcoming event is starting soon (V3) | Wenn ein anstehender Termin in Kürze startet (V3) | Trigger |
+| <img src="/sources/office365users.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Users** |  | Standard |
+|  | Send an HTTP request | HTTP-Anforderung senden |  |
+|  | Get direct reports (V2) |  Direkte Mitarbeiter abrufen (V2) |  |
+|  | Get manager (V2) | Vorgesetzen abrufen (V2) |  |
+|  | Get my Profile (V2) | Mein Profil abrufen (V2) |  |
+|  | Get my trending documents | Meine relevanten Dokumente abrufen |  |
+|  | Get relevant people | Relevante Personen abrufen |  |
+|  | Get trending documents | Relevante Dokumente abrufen |  |
+|  | Get user photo (V2) | Benutzerfoto abrufen (V2) |  |
+|  | Get user photo metadata | Metadaten für Benutzerfoto abrufen |  |
+|  | Get user profile (V2) | Benutzerprofile abrufen (V2) |  |
+|  | Search for users (V2) | Nach Benutzern suchen (V2) |  |
+|  | Update my profile | Mein Profil aktualisieren |  |
+|  | Update my profile photo | Mein Profilfoto aktualisieren |  |
 | <img src="/sources/PowerApps2.05e0cdd0.png"  alt ="Power Apps" width="30" height="30">| **Power Apps** |  | In App |
 |  | Power Apps (V2) | Power Apps (V2) | In App, Trigger |
 |  | Respond to a Power App or flow | Auf eine Power App oder einen Flow reagieren | In App |
