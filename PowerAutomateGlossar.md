@@ -135,7 +135,7 @@
 | <img src="/sources/PowerApps2.05e0cdd0.png"  alt ="Power Apps" width="30" height="30">| **Power Apps** |  | In App |   |
 |  | Power Apps (V2) | Power Apps (V2) | In App, Trigger |   |
 |  | Respond to a Power App or flow | Auf eine Power App oder einen Flow reagieren | In App |   |
-| <img src="/sources7powerbiicon.png"  alt ="Power BI" width="30" height="30"> | **Power BI** |  | Standard</br> Power BI Lizenz |   |
+| <img src="/sources/powerbiicon.png"  alt ="Power BI" width="30" height="30"> | **Power BI** |  | Standard</br> Power BI Lizenz |   |
 |   | Add a note to a check-in | Notiz zu einem Check-in hinzufügen | Preview | Appends a new note to a check-in of a Power BI goal. |
 |   | Add rows to a dataset | Zeilen einem Dataset hinzufügen | Power BI Premium Lizenz | Use Power BI REST API to add rows to a dataset. |
 |   | Create a check-in | Check-in erstellen | Preview | Creates a Power BI goal check-in. |
