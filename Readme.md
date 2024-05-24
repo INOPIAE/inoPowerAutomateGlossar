@@ -26,6 +26,7 @@ Diese Bereiche sind schon erfasst:
 | <img src="/sources/outlook_icon.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Outlook** |  | Standard |
 | <img src="/sources/office365users.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Users** |  | Standard |
 | <img src="/sources/PowerApps2.05e0cdd0.png"  alt ="Power Apps" width="30" height="30"> | **Power Apps** |  | In App |
+| <img src="/sources7powerbiicon.png"  alt ="Power BI" width="30" height="30"> | **Power BI** |  | Standard</br> Power BI Lizenz |
 | <img src="/sources/PowerVirtualAgents2.c357140b.png"  alt ="Power Virtual Agents" width="30" height="30"> | **Power Virtual Agents** |  | In App |
 | <img src="/sources/request.1cff129c.png"  alt ="Request" width="30" height="30"> | **Request** |  | In App |
 | <img src="/sources/sharepointonline2.3946a5b5.png"  alt ="SharePoint" width="30" height="30"> | **SharePoint** |  | Standard |

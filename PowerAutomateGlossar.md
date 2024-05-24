@@ -135,6 +135,24 @@
 | <img src="/sources/PowerApps2.05e0cdd0.png"  alt ="Power Apps" width="30" height="30">| **Power Apps** |  | In App |   |
 |  | Power Apps (V2) | Power Apps (V2) | In App, Trigger |   |
 |  | Respond to a Power App or flow | Auf eine Power App oder einen Flow reagieren | In App |   |
+| <img src="/sources7powerbiicon.png"  alt ="Power BI" width="30" height="30"> | **Power BI** |  | Standard</br> Power BI Lizenz |   |
+|   | Add a note to a check-in | Notiz zu einem Check-in hinzufügen | Preview | Appends a new note to a check-in of a Power BI goal. |
+|   | Add rows to a dataset | Zeilen einem Dataset hinzufügen | Power BI Premium Lizenz | Use Power BI REST API to add rows to a dataset. |
+|   | Create a check-in | Check-in erstellen | Preview | Creates a Power BI goal check-in. |
+|   | Create a goal | Ziel erstellen | Preview | Creates a Power BI goal on the specified scorecard. |
+|   | Create a scorecard | Scorecard erstellen | Preview | Creates a scorecard for Power BI goals. |
+|   | Export To File for Paginated Reports | Power BI-Berichte in Datei exportieren | Power BI Premium Lizenz | Use Power BI Rest API to inititate export for paginated reports
+|   | Export To File for Power BI Reports | Power BI-Berichte in Datei exportieren | Power BI Premium Lizenz | Use Power BI Rest API to inititate export for Power BI reports
+|   | Get a goal | Ziel abrufen | Preview | Gets the specified Power BI goal on a scorecard. |
+|   | Get a goal check-in | Ziel-Check-in abrufen | Preview | Get a check-in on a Power BI goal. |
+|   | Get goal check-ins | Ziel-Check-ins abrufen | Preview | Get all check-ins on a Power BI goal. |
+|   | Get multiple goals | Mehrere Ziele abrufen | Preview | Get a list of Power BI goals in the specified scorecard. |
+|   | Get scorecards |  Scoreards abrufen |   | Gets a list of Power BI scorecards in the specified workspace. |
+|   | Refresh a dataset | Dataset aktualisieren |   | Use Power BI REST API to refresh a powerbi dataset. |
+|   | Run a json query against a dataset | JSON-Abfrage für ein Dataset ausführen | Power BI Premium Lizenz | Use the Power BI REST API to run a query in json format. |
+|   | Run a query against a dataset | Abfrage für ein DataSet ausführen | Power BI Premium Lizenz | Use the Power BI REST API to run a query. |
+|   | Update a check-in | Ein Check.in aktualisieren | Preview | Updates a Power BI goal check-in. |
+|   | Update a goal | Ziel aktualisieren | Preview | Updates the Power BI goal's state. |
 | <img src="/sources/PowerVirtualAgents2.c357140b.png"  alt ="Power Virtual Agents" width="30" height="30"> | **Power Virtual Agents** |  | In App |   |
 |  | When Power Virtual Agents call a flow | Beim Aufrufen eines Flows durch Power Virtual Agents | In App |   |
 |  | Return vaule(s) to Power Virtual Agents | Wert(e) an Power Virtual Agents zurückgeben | In App |   |
