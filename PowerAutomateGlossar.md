@@ -33,8 +33,6 @@
 |  | Get future time | Zukünftige Zeit abrufen | In App |   |
 |  | Get past time | Vergangene Uhrzeit abrufen | In App |   |
 |  | Substract from time | Von Uhrzeit abziehen | In App |   |
-| <img src="/sources/button.c0d4736c.png" alt="Flow button for mobil" width="30" height="30"> | **Flow button for mobile** |  | In App |   |
-|  | Manually trigger a flow | Einen Flow automatisch auslösen | In App, Trigger |   |
 | <img src="/sources/excel_icon.png"  alt ="Excel Online (Business)" width="30" height="30"> | **Excel Online (Business)** |  | Standard |   |
 |  | Delete a row | Zeile löschen |  |   |
 |  | Get a row | Zeile abrufen |  |   |
@@ -63,6 +61,10 @@
 |  | Create table | Tabelle erstellen |  |   |
 |  | Create Worksheet | Arbeitsblatt erstellen |  |   |
 |  | Get tables | Tabellen abrufen |  |   |
+| <img src="/sources/button.c0d4736c.png" alt="Flow button for mobil" width="30" height="30"> | **Flow button for mobile** |  | In App |   |
+|  | Manually trigger a flow | Einen Flow automatisch auslösen | In App, Trigger |   |
+| <img src="/sources/button.c0d4736c.png" alt="Flows" width="30" height="30"> | **Flows**  | **Abläufe** | InApp</br>nur in Projektmappen |  |
+|   | Run a Child Flow | Untergeordneten Flow ausführen | InApp | Run a Chlid Flow |
 | <img src="/sources/http.a0aaded8.png"  alt ="HTTP" width="30" height="30"> | **HTTP** | **HTTP** | In App |   |
 |  | HTTP | HTTP | In App |   |
 |  | HTTP | HTTP | In App, Trigger |   |

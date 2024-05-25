@@ -18,6 +18,7 @@ Diese Bereiche sind schon erfasst:
 | <img src="/sources/dataoperationedit.2c8a4d5e.png" alt="Data Operations" width="30" height="30"> | **Data Operation**     |  | In App |
 | <img src="/sources/datetime.6adce4c8.png" alt="Date Time" width="30" height="30"> | **Date Time** |  | In App |
 | <img src="/sources/button.c0d4736c.png" alt="Flow button for mobil" width="30" height="30"> | **Flow button for mobile** |  | In App |
+| <img src="/sources/button.c0d4736c.png" alt="Flows" width="30" height="30"> | **Flows**  | **Abläufe** | InApp</br>nur in Projektmappen |
 | <img src="/sources/excel_icon.png"  alt ="Excel Online (Business)" width="30" height="30">| **Excel Online (Business)** |  | Standard |
 | <img src="/sources/excel_icon.png"  alt ="Excel Online for Business" width="30" height="30">| **Excel Online  for Business** |  | Standard |
 | <img src="/sources/http.a0aaded8.png"  alt ="HTTP" width="30" height="30"> | **HTTP** | **HTTP** | In App |
