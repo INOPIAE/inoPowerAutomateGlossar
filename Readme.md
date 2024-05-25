@@ -22,7 +22,8 @@ Diese Bereiche sind schon erfasst:
 | <img src="/sources/excel_icon.png"  alt ="Excel Online (Business)" width="30" height="30">| **Excel Online (Business)** |  | Standard |
 | <img src="/sources/excel_icon.png"  alt ="Excel Online for Business" width="30" height="30">| **Excel Online  for Business** |  | Standard |
 | <img src="/sources/http.a0aaded8.png"  alt ="HTTP" width="30" height="30"> | **HTTP** | **HTTP** | In App |
-| <img src="/sources/teams.dd2b07cb.png"  alt ="Microsoft Teams Webhook" width="30" height="30"> | **Microsoft Teams Webhook** |  | In App|
+| <img src="/sources/microsoftentraidicon.png"  alt ="Microsoft Entra ID" width="30" height="30"> | **Microsoft Entra ID**  |  | Standard |
+| <img src="/sources/teams.dd2b07cb.png"  alt ="Microsoft Teams Webhook" width="30" height="30"> | **Microsoft Teams Webhook** |  | In App |
 | <img src="/sources/numberfunctions.31ce8522.png"  alt ="Number Function" width="30" height="30"> | **Number Function** |  | In App | 
 | <img src="/sources/outlook_icon.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Outlook** |  | Standard |
 | <img src="/sources/office365users.png"  alt ="Office Outlook 365" width="30" height="30"> | **Office 365 Users** |  | Standard |

@@ -72,6 +72,23 @@
 |  | HTTP + Swagger | HTTP + Swagger | In App, Trigger |   |
 |  | HTTP-Webhook | HTTP-Webhook | In App |   |
 |  | HTTP-Webhook | HTTP- Webhook | In App, Trigger |   |
+| <img src="/sources/microsoftentraidicon.png"  alt ="Microsoft Entra ID" width="30" height="30"> | **Microsoft Entra ID**  |  | Standard |   |
+|   | Add user to group | Benutzer zu Gruppe hinzufügen |   | Add a user to a group in this Microsoft Entra ID tenant. |
+|   | Assign manager | Vorgesetzten zuweisen |   | Assign a manager for a user. |
+|   | Check group membership (V2) | Gruppenmitgliedschaft überprüfen (V2) |   | If the user is a member of the given group, the result will contain the given id. Otherwise the result will be empty. |
+|   | ~~Check group membership [DEPRECATED]~~ | ~~Gruppenmitgliedschaft überprüfen~~ | nicht mehr gültig | This action has been deprecated. Please use Check group membership (V2) instead.</br> ~~If the user is a member of the given group, the result will contain the given id. Otherwise the result will be empty.~~ |
+|   | Create group | Gruppe erstellen |   | Create a group in your Microsoft Entra ID tenant. |
+|   | Create Office 365 group | Office 365 Gruppe erstellen |   | Create an Office 365 group in your Microsoft Entra ID tenant. |
+|   | Create security group | Sicherheitsgruppe erstellen |   | Create a security group in your Microsoft Entra ID tenant. |
+|   | Create user | Benutzer erstellen |   | Create a new user in your Microsoft Entra ID tenant. |
+|   | Get group | Gruppe abrufen |   | Get details for a group. |
+|   | Get group members | Gruppenmitglieder abrufen |   | Get the users who are members of a group. You can query up to 1000 items using the Top parameter. If you need to retrieve more than 1000 values, please turn on the Settings->Pagination feature and provide a Threshold limit. |
+|   | Get groups of a user (V2) | Gruppen eines Benutzers abrufen (V2) |   | Get the groups a user is a member of. |
+|   | ~~Get groups of a user [DEPRECATED]~~ |  ~~Gruppen eines Benutzers abrufen~~ | nicht mehr gültig | This action has been deprecated. Please use Get groups of a user (V2) instead.</br>~~Get the groups a user is a member of.~~ |
+|   | Get user | Benutzer abrufen |   | Get details for a user. |
+|   | Refresh tokens | Aktualisierungstokens |   | Invalidate all refresh tokens for a user |
+|   | Remove Member From Group | Mitglied aus Gruppe entfernen |   | Remove Member From Group |
+|   | Update user | Benutzer aktualisieren |   | Update the info for a user. |
 | <img src="/sources/teams.dd2b07cb.png"  alt ="Microsoft Teams Webhook" width="30" height="30"> | **Microsoft Teams Webhook** |  | In App|   |
 |  | When a Teams webhook request is received | Bei Empfang einer Teams-Webhookanforderung | In App |   |
 | <img src="/sources/numberfunctions.31ce8522.png"  alt ="Number Function" width="30" height="30"> | **Number Function** |  | In App |   |
