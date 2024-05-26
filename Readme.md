@@ -32,7 +32,7 @@ Diese Bereiche sind schon erfasst:
 | <img src="/sources/PowerVirtualAgents2.c357140b.png"  alt ="Power Virtual Agents" width="30" height="30"> | **Power Virtual Agents** |  | In App |
 | <img src="/sources/request.1cff129c.png"  alt ="Request" width="30" height="30"> | **Request** |  | In App |
 | <img src="/sources/sharepointonline2.3946a5b5.png"  alt ="SharePoint" width="30" height="30"> | **SharePoint** |  | Standard |
-| <img src="/sources/datetime.6adce4c8.png"  alt ="Schedule" width="30" height="30"> | **Schedule** |  | In App |
+| <img src="/sources/datetime.6adce4c8.png"  alt ="Schedule" width="30" height="30"> | **Schedule** | **Zeitplan** | In App |
 | <img src="/sources/Skills.4cd3778f.png"  alt ="Skills" width="30" height="30">| **Skills** |  | In App |
 | <img src="/sources/textfunctions.46a2303c.png"  alt ="Text Function" width="30" height="30"> | **Text Function** |  | In App |
 | <img src="/sources/variables.e1611a86.png"  alt ="Variable" width="30" height="30"> | **Variable** |  | In App |

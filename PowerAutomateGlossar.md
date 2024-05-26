@@ -242,7 +242,7 @@
 |  | Update file properties using AI Builder model result | Dateieigenscahften mithilfe von AI Builder-Modellergebnissen aktualisieren |  |   |
 |  | Update item | Element aktualisieren |  |   |
 |  | When a file is created or modified in a folder (deprecated) | Wenn eine Datei erstellt oder geändert wird (veraltet) | Trigger |   |
-| <img src="/sources/datetime.6adce4c8.png"  alt ="Schedule" width="30" height="30"> | **Schedule** |  | In App |   |
+| <img src="/sources/datetime.6adce4c8.png"  alt ="Schedule" width="30" height="30"> | **Schedule** | **Zeitplan** | In App |   |
 |  | Delay | Verzögerung | In App |   |
 |  | Delay until | Verzögern bis | In App |   |
 |  | Recurrence | Wiederholung | In App, Trigger |   |
